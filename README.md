@@ -1,10 +1,8 @@
 ### **Insightify- Turn PDFs into instant insights💁**
 
----
+### **Overview**
 
-#### **Overview**
-
-This project is a Streamlit-based web application that allows users to upload PDF files and interact with their content using natural language questions. The app leverages Google Generative AI (Gemini) for embeddings and conversational AI and FAISS (Facebook AI Similarity Search) for vector storage and retrieval.
+Insightify is a Streamlit-based web application that allows users to upload PDF files and interact with their content using natural language questions. The app uses Google Generative AI (Gemini) for embeddings and conversational AI, alongside FAISS (Facebook AI Similarity Search) for vector storage and retrieval.
 
 ---
 
@@ -37,8 +35,8 @@ This project is a Streamlit-based web application that allows users to upload PD
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-repo/chat-pdf-gemini.git
-   cd chat-pdf-gemini
+   git clone https://github.com/your-username/Insightify.git
+   cd Insightify
    ```
 
 2. **Install Dependencies**  
@@ -70,7 +68,7 @@ This project is a Streamlit-based web application that allows users to upload PD
 2. Use the **sidebar menu** to upload one or more PDF files.
 3. Click the **Submit & Process** button to extract and process the content.
 4. Once processing is complete, enter a question related to the uploaded PDF content in the input field.
-5. View the generated response in real time.
+5. View the generated response in real-time.
 
 ---
 
@@ -104,7 +102,7 @@ This project is a Streamlit-based web application that allows users to upload PD
 
 ### **License**
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.  
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
@@ -114,3 +112,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
   [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)  
 
 ---
+
+Feel free to adjust your GitHub username and other details in the "Contributors" section!
